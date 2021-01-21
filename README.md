@@ -1,2 +1,3 @@
 # Web-Portfolio
-This is my first web portfolio.
+
+John Wellbrock's Full Stack Web Developer Portfolio
